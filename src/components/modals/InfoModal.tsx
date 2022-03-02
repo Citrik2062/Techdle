@@ -58,7 +58,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <p className="justify-center mt-6 italic text-sm text-gray-500 dark:text-gray-300">
-        This is a spinoff of the popular New York Times game, ㅤㅤㅤWordle. Test your technology vocab skills!{' ㅤㅤㅤ'}
+        This is a spinoff of the popular New York Times game, Wordle. Test your technology vocab skills!{' ㅤㅤㅤ'}
         <a
           href="https://www.buymeacoffee.com/Citrik"
           className="underline font-bold"
