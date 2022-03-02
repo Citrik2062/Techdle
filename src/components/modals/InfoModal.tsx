@@ -24,7 +24,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell value="O" />
         <Cell value="R" />
         <Cell value="D" />
-        <Cell value="s" />
+        <Cell value="S" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         The letter C is in the word and in the correct spot.
